@@ -1,0 +1,32 @@
+body article, footer{
+    margin: 90px 175px 0px 175px;
+    padding: 0px;
+    text-align: center;  
+}
+
+#linkRegresar {
+    display: flex;
+    justify-content: end;
+}
+
+article {
+    display: flex;
+    margin-top: 100px;
+    align-items: center;
+}
+
+img {
+    width: 450px;
+    height: 300px;
+    border: 1px solid black;
+}
+
+div{
+    margin-left: 50px;
+    font-size: 25px;
+    text-align: left;
+}
+
+footer {
+    margin-top: 25%;
+}
